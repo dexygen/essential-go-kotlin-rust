@@ -1,1 +1,1 @@
-# first-steps-go-kotlin-rust
+# outline next steps in Go after hello world
