@@ -1,4 +1,4 @@
-# first-steps-go-kotlin-rust
+# Go, Kotlin & Rust: The Essentials
 
 ## Idea(s):
 - hello world for all three languages in one directory
